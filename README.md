@@ -1,17 +1,17 @@
-**Crypto Clustering Project**
+# Crypto Clustering Project
 
 This project involves clustering cryptocurrencies based on their market data. Using Python libraries such as Pandas, scikit-learn, and Matplotlib, I performed data preprocessing, normalization, and clustering. The goal is to identify patterns and groups within the cryptocurrency market, aiding in the analysis and decision-making process for investments or research.
 
-***Getting Started***
+## Getting Started
 
-Prerequisites for install:
+### Prerequisites for install:
 Pandas
 scikit-learn
 Matplotlib
 hvPlot 
 
 
-***Usage***
+## Usage
 
 1. Load and Display Data: The script starts by loading the cryptocurrency market data from a CSV file into a Pandas DataFrame. It displays sample data and generates summary statistics to understand the dataset better.
 
